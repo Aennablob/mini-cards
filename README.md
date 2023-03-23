@@ -1,1 +1,1 @@
-just namecards for testing a style
+just a namecard style for website
